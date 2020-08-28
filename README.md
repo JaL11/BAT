@@ -14,12 +14,12 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project]()
-* [Installation]()
-* [Usage]()
-* [Contributing]()
-* [Credits]()
-* [License]()
+* [About the Project](https://github.com/JaL11/BAT/blob/master/README.md#about-the-project)
+* [Installation](https://github.com/JaL11/BAT/blob/master/README.md#installation)
+* [Usage](https://github.com/JaL11/BAT/blob/master/README.md#usage)
+* [Contributing](https://github.com/JaL11/BAT/blob/master/README.md#contributing)
+* [Credits](https://github.com/JaL11/BAT/blob/master/README.md#credits)
+* [License](https://github.com/JaL11/BAT/blob/master/README.md#license)
 
 
 
